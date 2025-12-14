@@ -9,3 +9,7 @@ This repository serves as the **Technical Journal** for the Operating Systems co
 ### [Phase 1: System Planning and Distribution Selection (Week 1)](./week_1.pdf)
 
 **Description:** Operating system deployment and justify technical decisions.
+
+### [Phase 2: Security Planning and Testing Methodology (Week 2)](./week_2.pdf)
+
+**Description:** Design a security baseline and performance testing methodology.
