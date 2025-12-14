@@ -13,3 +13,7 @@ This repository serves as the **Technical Journal** for the Operating Systems co
 ### [Phase 2: Security Planning and Testing Methodology (Week 2)](./week_2.pdf)
 
 **Description:** Design a security baseline and performance testing methodology.
+
+### [Phase 3: Application Selection & Resource Profiling (Week 3)](./week_3.pdf)
+
+**Description:** Select applications representing different workload types for performance evaluation.
