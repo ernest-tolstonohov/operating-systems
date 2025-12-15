@@ -17,3 +17,7 @@ This repository serves as the **Technical Journal** for the Operating Systems co
 ### [Phase 3: Application Selection & Resource Profiling (Week 3)](./week_3.pdf)
 
 **Description:** Select applications representing different workload types for performance evaluation.
+
+### [Phase 4: Initial System Configuration & Security Implementation (Week 4)](./week_4.pdf)
+
+**Description:** Deploy your server and implement foundational security controls.
