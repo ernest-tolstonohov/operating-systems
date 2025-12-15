@@ -21,3 +21,7 @@ This repository serves as the **Technical Journal** for the Operating Systems co
 ### [Phase 4: Initial System Configuration & Security Implementation (Week 4)](./week_4.pdf)
 
 **Description:** Deploy your server and implement foundational security controls.
+
+### [Phase 5: Advanced Security and Monitoring Infrastructure (Week 5)](./week_5.pdf)
+
+**Description:** Implement advanced security controls and develop monitoring capabilities.
