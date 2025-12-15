@@ -25,3 +25,7 @@ This repository serves as the **Technical Journal** for the Operating Systems co
 ### [Phase 5: Advanced Security and Monitoring Infrastructure (Week 5)](./week_5.pdf)
 
 **Description:** Implement advanced security controls and develop monitoring capabilities.
+
+### [Phase 6: Performance Evaluation and Analysis (Week 6)](./week_6.pdf)
+
+**Description:** Execute detailed performance testing and analyse operating system behaviour under different workloads.
