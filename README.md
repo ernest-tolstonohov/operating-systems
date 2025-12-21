@@ -29,3 +29,7 @@ This repository serves as the **Technical Journal** for the Operating Systems co
 ### [Phase 6: Performance Evaluation and Analysis (Week 6)](./week_6.pdf)
 
 **Description:** Execute detailed performance testing and analyse operating system behaviour under different workloads.
+
+### [Phase 7: Security Audit and System Evaluation (Week 7)](./week_7.pdf)
+
+**Description:** Conduct a security audit and evaluate overall system configuration.
